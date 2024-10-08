@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ninis25
-- 👀 I’m interested in programming, new technologies, and finance.
-- 🌱 I’m currently learning advanced networking protocols and web development.
+- 👀 I’m interested in programming, new technologies, cybersecurity and finance.
+- 🌱 I’m currently learning advanced networking protocols, cybersecurity and web development.
 - 💞️ I’m looking to collaborate on innovative tech projects and open-source software.
 - 📫 How to reach me: anisse.fouka@edu.univ-fcomte.fr
   
